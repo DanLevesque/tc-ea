@@ -1,3 +1,5 @@
-# tc-ea
+# Transport Canada Enterprise Architecture
 
-EA Artefacts for Transport Canada
+*This page is currently in development*
+
+This page will contains all Enterprise Architecture artefacts required, as per the Transport Canada Architecture Framework.
