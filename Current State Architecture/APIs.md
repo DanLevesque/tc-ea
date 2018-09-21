@@ -1,5 +1,7 @@
 # List of known Transport Canada APIs 
 
+#### A list of all known APIs as per our 2018-09-18 meeting. 
+
 | API Name               | Status | Protocol | Publisher              | Used by         | URL           | Authentication    | Maintained By                         |
 |------------------------|--------|----------|------------------------|-----------------|---------------|-------------------|---------------------------------------|
 | Twilio SMS API         | PROD   | N/A      | Twilio                 | 2FA application |               |                   | Twilio                                |
