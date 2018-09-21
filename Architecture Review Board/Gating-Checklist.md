@@ -1,5 +1,6 @@
 # Gating Requirement Checklist 
 
+This checklist is meant to be a comprehensive checklist to assess readiness for an Architecture Review Board assessment.
 
 ## Business Architecture 
 
