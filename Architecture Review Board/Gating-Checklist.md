@@ -6,6 +6,9 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 
 ### Business Architecture 
 
+* Have you identified Business Capabilities you wish to implement, improve or scale back? 
+* Have you identified Business Outcomes, and linked them to the Departmental Results Framework? 
+
 ### Information Architecture
 
 #### Open Government 
@@ -18,7 +21,11 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 
 ### Business Architecture 
 
+* Have you identified all direct and indirect stakeholders that have power and influence to block or advance the initiative? 
+
 ### Information Architecture
+
+* Have you identified any interoperability requirements? 
 
 #### Open Government 
 
@@ -27,6 +34,9 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 ## Technology Architecture
 
 ## Security & Privacy Architecture
+
+* Is personal information involved? Have you conducted a Privacy Impact Assessment (PIA)?
+* Have you created a Statement of Sensitivity (SoS)?
 
 ## Gate 3 
 
@@ -39,6 +49,8 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 ## Technology Architecture
 
 ## Security & Privacy Architecture
+
+* Have you designed an architecture that addresses all security and privacy requirements? 
 
 ## Gate 4 
 
@@ -70,6 +82,8 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 * If necessary, have you obtained ATIP approvals?
 
 ## Technology Architecture
+
+* Have you identified Solution Build Blocks (SBBs) that could be re-used?
 
 ## Security & Privacy Architecture
 
