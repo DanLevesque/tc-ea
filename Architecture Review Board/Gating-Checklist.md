@@ -13,9 +13,11 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 
 #### Open Government 
 
-## Technology Architecture
+### Technology Architecture
 
-## Security & Privacy Architecture
+### Application Architecture 
+
+### Security & Privacy Architecture
 
 ## Gate 2 
 
@@ -31,9 +33,11 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 
 * Do you have an acknowledged outcome? 
 
-## Technology Architecture
+### Technology Architecture
 
-## Security & Privacy Architecture
+### Application Architecture
+
+### Security & Privacy Architecture
 
 * Is personal information involved? Have you conducted a Privacy Impact Assessment (PIA)?
 * Have you created a Statement of Sensitivity (SoS)?
@@ -46,9 +50,11 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 
 #### Open Government 
 
-## Technology Architecture
+### Technology Architecture
 
-## Security & Privacy Architecture
+### Application Architecture
+
+### Security & Privacy Architecture
 
 * Have you designed an architecture that addresses all security and privacy requirements? 
 
@@ -64,9 +70,11 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 * Does the Solution Architecture explicitely outlines how Open Governemnt will be supported?
 * Have you re-used exisiting capabilities
 
-## Technology Architecture
+### Technology Architecture
 
-## Security & Privacy Architecture
+### Application Architecture
+
+### Security & Privacy Architecture
 
 ## Gate 5
 
@@ -81,9 +89,10 @@ This checklist is meant to be a comprehensive checklist to assess readiness for 
 * Are processes in place for future assets? 
 * If necessary, have you obtained ATIP approvals?
 
-## Technology Architecture
+### Technology Architecture
 
 * Have you identified Solution Build Blocks (SBBs) that could be re-used?
 
-## Security & Privacy Architecture
+### Application Architecture
 
+### Security & Privacy Architecture
