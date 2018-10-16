@@ -1,8 +1,8 @@
 # List of Transport Canada project and TC ARB/GC EARB Status. 
 
-## The latest approval provided by TC ARB is listed where applicable.
+### The latest approval provided by TC ARB is listed where applicable.
 
-##### Legend
+#### Legend
 
 N/S = Not Scheduled 
 
