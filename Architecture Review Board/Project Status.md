@@ -1,4 +1,8 @@
-#List of Transport Canada project and the scheduled time for TC ARB and GC EARB as applicable. 
+# List of Transport Canada project and the scheduled time for TC ARB and GC EARB as applicable. 
+
+##### Legend
+
+N/S = Not Scheduled 
 
 | Project Code | Project Name                                                                        | Project Director         | Project Manager              | ARB      | GC EARB   |
 |--------------|-------------------------------------------------------------------------------------|--------------------------|------------------------------|----------|-----------|
@@ -24,3 +28,19 @@
 |    67H3      |    Workload Migration Leveraging Cloud   Services                                   |    Louise   Seguin       |    Dennis   Lenard           |    N/S     |    Required      |
 |    67D3      |    Transforming To Mobile Applications (TMA)   aka MyTC Oversight                   |    Heather   MacKeen     |    Sheilagh   McDermott      |    N/S     |    Recommended     |
 |    8792      |    MyTC Online Account (MTOA)                                                       |    Heather   MacKeen     |    Luong   Tang              |    Schedule November 19th    |    Required     |
+|    67C1      |    System Architecture and Rationalization   (SAAR)                                 |    Heather   MacKeen    |    Luong   Tang             |    N/S    |    Recommended     |
+|    69C1      |    Results and Delivery Data Infrastructure   Framework (RDDIF)                     |    Rida   Al Osman      |    Rida   Al Osman          |    N/S    |    Recommended    |
+|    69FY      |    Multimodal Enforcement Reporting System   (MMERS)                                |    Kentia   Dazulma     |    Munish   Talwar          |    Approved Gate 3 August 20th - project charter being reviewed   |    N/A    |
+|    67G9      |    Enterprise BI and Data Analytics                                                 |    Rida   Al Osman      |    Munish   Talwar          |    N/S    |    Q4    |
+|    67H0      |    Workplace Technology Devices (WTD)   Renewal Project - Windows 10 Enterprise     |    Louise   Seguin      |    Stuart   Majka           |    N/S    |    -     |
+|    69AK      |    **New** CCTD   and Bill C-49 Requirements                                            |    Rida   Al Osman      |    William   Bowen          |    N/S    |    Q3    |
+|    67G2      |    **New** Transition   to GCDOCS                                                       |    Kentia   Dazulma     |    Doug   Sellers           |    N/S    |    Q3    |
+|    67HF      |    **New**   IM/IT Service Catalogue                                                    |    Louise   Seguin      |    Sylvain   St-Pierre      |    Gate ? - Scheduled Nov. 5th    |    Q3    |
+|    67HD      |    **New** IT   Asset Management (ITAM)                                                 |    Louise   Seguin      |    Sylvain   St-Pierre      |    Gate 3 - Scheduled Nov. 5th    |    Q3    |
+|    67HC      |    **New**   IT Service Management (ITSM)                                               |    Louise   Seguin      |    Pierre-Louis   Ponton    |    N/S    |    -     |
+|    8645      |    Multimodal Personnel Document Issuance   System (MPDIS)                          |    Robert Robinson      |    Roxanne Lafleur          |    N/S     |          |
+|    69FQ      |    Incident Management System (formerly ICS)                                        |    Robert Robinson      |    Eric Peladeau            |    N/S    |          |
+|    69AH      |    New Enterprise GeoSpatial Information   System (EGIS) (Includes OPP)             |    Robert Robinson      |    Stefan Boniecki          |    Gate 1 Reviewed Oct. 11th - Approved with Recommendations    |    Q3 - N/S    |
+|    69AJ      |    New Stakeholder Consultations and   Engagement Management (includes OPP)         |    Robert Robinson      |    Nathalie Gauthier        |    N/S    |          |
+
+
