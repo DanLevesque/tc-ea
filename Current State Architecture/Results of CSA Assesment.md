@@ -73,3 +73,4 @@
 | ITSG 33                                                 | Policy &   Standards           |
 | Desktop /   Windows 10 / IE                             | Access Channel                 |
 | Office 2013                                             | Technology   Standards         |
+| GAP: Document Management with External Users            | Enterprise Need                |
